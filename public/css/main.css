@@ -143,7 +143,3 @@ abbr {
 .bell-button:focus {
   outline: 0 !important;
 }
-
-.create {
-  cursor: pointer;
-}

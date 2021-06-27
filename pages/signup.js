@@ -45,7 +45,7 @@ const index = () => {
               <p className="text-sm mt-8 text-center">
                 <span>Have an account? </span>
                 <Link href="/">
-                  <a className="underline">Log in.</a>
+                  <a className="hover:underline">Log in.</a>
                 </Link>
               </p>
             </div>
