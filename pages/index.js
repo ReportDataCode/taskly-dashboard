@@ -32,7 +32,7 @@ const index = () => {
               <Link href="/signup">
                 <p className="text-sm mt-8 text-center">
                   <span>Don't have an account yet? </span>
-                  <a className="underline">Create here</a>
+                  <a className="create underline">Create here</a>
                 </p>
               </Link>
             </div>
